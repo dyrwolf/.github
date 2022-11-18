@@ -1,0 +1,2 @@
+# .github
+Become Ransomware Ready
