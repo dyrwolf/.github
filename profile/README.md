@@ -1,2 +1,2 @@
 # Dyrwolf
-Become Ransomware Ready
+Be Ransomware Ready
